@@ -16,6 +16,20 @@ files {
   'dist/index.css',
   'html/vendor/*.css',
   'html/vendor/fonts/*.woff2',
+  'html/App.js',
+  'html/App.ts',
+  'html/App.vue',
+  'html/config.default.js',
+  'html/css/style.css',
+  'html/index.html',
+  'html/js/App.js',
+  'html/js/config.default.js',
+  'html/Suggestions.vue',
+  'html/Message.vue',
+  'html/Suggestions.ts',
+  'html/Suggestions.js',
+  'html/Message.ts',
+  'html/main.ts',
 }
 
 fx_version 'adamant'
